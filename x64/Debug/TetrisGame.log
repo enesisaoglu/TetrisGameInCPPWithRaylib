@@ -1,0 +1,7 @@
+﻿  Game.cpp
+  TetrisMain.cpp
+C:\Users\enesi\source\repos\TetrisGame\TetrisGame\TetrisMain.cpp(41,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\enesi\source\repos\TetrisGame\TetrisGame\TetrisMain.cpp(43,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\enesi\source\repos\TetrisGame\TetrisGame\TetrisMain.cpp(52,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  TetrisGame.vcxproj -> C:\Users\enesi\source\repos\TetrisGame\x64\Debug\TetrisGame.exe
